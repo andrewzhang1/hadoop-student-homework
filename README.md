@@ -40,5 +40,4 @@ How to enabled MapReduce on Windows in local mode by modifying Apache open sourc
 For those of you interested in running MapReduce on Windows in local mode but got the "File permission" error. Here is my workaround.
 Copy the the attached FileUtil.class to your target\classes\org\apache\hadoop\fs\ , then it should work.
 At run time it will also print "FileUtil: modified by Michael Hsing 8/24/2014" to the console when this modified class is loaded. I have also attached the java file for your reference.
-Regards,
-Mike
+
