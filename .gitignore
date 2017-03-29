@@ -1,0 +1,51 @@
+# Generated (Java) files #
+##########################
+src/generated/
+
+# Archives #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Images #
+##########
+*.xcf
+*.png
+*.jpg
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Special files #
+#################
+*.success
+*.old
+*.bak
+*.log
+*.pyc
+
+# Generated files #
+##########################
+target/
+bin/
+
+# eclipse files #
+##########################
+.classpath
+.project
+.settings/
+
+#intellij files#
+##########################
+.idea/
